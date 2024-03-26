@@ -1,6 +1,6 @@
 # Relational-Databases-Number-Guessing-Game-Project
 ## Relational Databases Independent Learning
-I independently completed [my fourteenth project](https://freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game) in freeCodeCamp's [Relational Databases course](https://www.freecodecamp.org/learn/relational-database/) to improve my INSERT_E.G_SQL,SHELL,SCRIPTING and INSERT skills. This curriculum consisted of 14 guided projects, to be completed in a Gitpod environment. My notes outlining the names (et al) of these guided projects are [here](https://github.com/franpanteli/14--Relational-Databases-Number-Guessing-Game-Project/blob/main/0%20relational-databases-course-overview.txt). This repository is for the fourteenth of these projects I completed as part of this.
+I independently completed [my fourteenth project](https://freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game) in freeCodeCamp's [Relational Databases course](https://www.freecodecamp.org/learn/relational-database/) to improve my shell scripting and SQL skills. This curriculum consisted of 14 guided projects, to be completed in a Gitpod environment. My notes outlining the names (et al) of these guided projects are [here](https://github.com/franpanteli/14--Relational-Databases-Number-Guessing-Game-Project/blob/main/0%20relational-databases-course-overview.txt). This repository is for the fourteenth of these projects I completed as part of this.
 
 ## Adding INSERT_THIS
 ### Problem Solving
