@@ -8,15 +8,9 @@ For this project, I had to ...INSERT. My notes on the full task brief for this a
 
 ### Solution Workflow 
 - To complete this project, I used the CodeRoad extension in a VSCode virtual machine with Gitpod. I read through the project requirements, exported them as a PDF and [annotated them with my problem-solving approaches](https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project/blob/main/Task%20Challenge%20Notes.pdf)
-- The project Bash file ([number_guess.sh](https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project/blob/main/number_guess.sh)) was first created and provided executable file permissions in a Bash prompt   
-- The contents of this file was written in line with the project requirements, annotated in its notes file. The project SQL file ([number_guess.sql](https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project/blob/main/number_guess.sql)) was then created, with a view to
- 
-- The [in-depth notes I produced when completing this task are here](https://github.com/franpanteli/14--Relational-Databases-Number-Guessing-Game-Project/blob/main/2%20relational-databases-number-guessing-game-project-course-notes.txt)
-
-- INSERT_WORKFLOW_DESCRIPTION
-
-- INSERT [`INSERT_FILE_LINKS`](INSERT)
-- I created in-depth notes for this [which are here](https://github.com/franpanteli/14--Relational-Databases-Number-Guessing-Game-Project/blob/main/2%20relational-databases-number-guessing-game-project-course-notes.txt)
+- The project Bash file ([number_guess.sh](https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project/blob/main/number_guess.sh)) was first created and provided executable file permissions in a Bash prompt. The contents of this file was written in line with the [project requirements]
+- The project SQL file ([number_guess.sql](https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project/blob/main/number_guess.sql)) was then created, which stored information about the usernames recorded during previous iterations that the project had been run. This was also designed in line with the project requirements. The project shell file was run with this SQL file during testing
+- Since the project was created in 
 
 ## To Clone This Repository
 ```
