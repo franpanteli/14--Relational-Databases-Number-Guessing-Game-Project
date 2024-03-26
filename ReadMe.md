@@ -7,7 +7,10 @@ I independently completed [my fourteenth project](https://freecodecamp.org/learn
 For this project, I had to ...INSERT. My notes on the full task brief for this are [here](https://github.com/franpanteli/14--Relational-Databases-Number-Guessing-Game-Project/blob/main/1%20project-task-notes.txt). 
 
 ### Solution Workflow 
-- To solve this problem, I first cloned the project boilerplate files in a Gitpod environment and followed ....(INSERT_number) .....(INSERT_content) lessons
+- To complete this project, I used the CodeRoad extension in a VSCode virtual machine with Gitpod. I read through the project requirements, exported them as a PDF and [annotated them with my problem-solving approaches](https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project/blob/main/Task%20Challenge%20Notes.pdf)
+- The project Bash file ([number_guess.sh](https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project/blob/main/number_guess.sh)) was first created and provided executable file permissions in a Bash prompt   
+- The contents of this file was written in line with the project requirements, annotated in its notes file. The project SQL file ([number_guess.sql](https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project/blob/main/number_guess.sql)) was then created, with a view to
+ 
 - The [in-depth notes I produced when completing this task are here](https://github.com/franpanteli/14--Relational-Databases-Number-Guessing-Game-Project/blob/main/2%20relational-databases-number-guessing-game-project-course-notes.txt)
 
 - INSERT_WORKFLOW_DESCRIPTION
